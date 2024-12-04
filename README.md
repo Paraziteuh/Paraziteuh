@@ -23,16 +23,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/memetemplate/301043794/kid-awkward"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Paraziteuh/Paraziteuh/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
 </div>
 
