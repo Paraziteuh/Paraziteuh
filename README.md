@@ -4,8 +4,7 @@
 
 <div align="center">
   <!-- GIF fun -->
-  <img src="https://media.giphy.com/media/QV05sKERFPifgwg5Ar/giphy.gif" height="150" alt="Fun GIF" />
-
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2g4eWswcGxvNWVuZDhpcWRweHU5eGl5MmY1eW4ya295eXZhYnlrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ABVK96HgZvWI9SBbXr/giphy.gif" height="150" alt="Fun GIF" />
 
 <div align="left">
   <!-- Tech stack logos -->
